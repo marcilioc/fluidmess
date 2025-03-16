@@ -1,12 +1,25 @@
 # Gestão do Projeto 
 
-# Iniciação
+## Iniciação
 
 1. Termo de Abertura do Projeto - TAP
-2. Identificação das Partes Interessadas
-   1. Análise SWOT (Equipe, Instituição)
+   1. Projeto: Sistema de Monitoramento e Controle de Fluidos por Medidas Mássicas
+   2. Escopo: Desenvolver um protótipo para simular um sistema embarcado capaz de monitorar e gerenciar armazenamento de água através de uma interface remota capaz de realizar a geração de gráficos e acionamento de alarmes de consumo a fim de validar o conceito do projeto.
 
-# Planejamento
+2. Identificação das Partes Interessadas
+   - O grupo;
+   - Professor orientador;
+   - Instituição de ensino;
+   - Estabelecimentos de médio e grande porte que realizam o consumo de gás GLP.
+
+3. Análise SWOT (Equipe, Instituição)
+   - SWOT (Forças, Fraquezas, Oportunidades e Ameaças)
+   - SWOT instituição
+   - SWOT Caio
+   - SWOT Jão
+   - SWOT Matheus
+
+## Planejamento
 
 1. Plano de Gerenciamento do Projeto
 2. Escopo
@@ -25,8 +38,8 @@
 8. Riscos
 9. Aquisições
 
-# Execução
+## Execução
 
-# Monitoramento e Controle
+## Monitoramento e Controle
 
-# Encerramento
+## Encerramento
