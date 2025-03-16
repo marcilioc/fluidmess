@@ -18,7 +18,16 @@
    - SWOT Caio
    - SWOT Jão
    - SWOT Matheus
-      - teste
+      - Forças
+         - Conhecimento em desenho técnico e modelagem CAD
+         - Bom trabalho em grupo
+      - Fraquezas
+         - Deficiência em conhecimento em C/C++ e programação em Arduíno
+         - Deficiência em conhecimento relacionado a documentação de projetos
+      - Oportunidades
+         - Aprimoramento dos conhecimentos relacionados a programação, eletrônica e documentação de projetos
+      - Ameaças
+         - Ausência de tempo devido a compromissos pessoais e trabalho
 
 ## Planejamento
 
