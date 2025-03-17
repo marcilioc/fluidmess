@@ -3,6 +3,7 @@
 ## Iniciação
 
 1. Termo de Abertura do Projeto - TAP
+--teste edição pelo celular 
    1. Projeto: Sistema de Monitoramento e Controle de Fluidos por Medidas Mássicas
    2. Escopo: Desenvolver um protótipo para simular um sistema embarcado capaz de monitorar e gerenciar armazenamento de água através de uma interface remota que realiza a geração de gráficos e acionamento de alarmes de consumo e vazamentos, a fim de validar o conceito do projeto.
 
