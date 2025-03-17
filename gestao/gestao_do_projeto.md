@@ -4,19 +4,72 @@
 
 1. Termo de Abertura do Projeto - TAP
    1. Projeto: Sistema de Monitoramento e Controle de Fluidos por Medidas Mássicas
-   2. Escopo: Desenvolver um protótipo para simular um sistema embarcado capaz de monitorar e gerenciar armazenamento de água através de uma interface remota capaz de realizar a geração de gráficos e acionamento de alarmes de consumo a fim de validar o conceito do projeto.
+   2. Escopo: Desenvolver um protótipo para simular um sistema embarcado capaz de monitorar e gerenciar armazenamento de água através de uma interface remota que realiza a geração de gráficos e acionamento de alarmes de consumo e vazamentos, a fim de validar o conceito do projeto.
 
 2. Identificação das Partes Interessadas
-   - O grupo;
-   - Professor orientador;
-   - Instituição de ensino;
+   - O grupo (Caio, João e Matheus);
+   - Professor orientador (José William);
+   - Instituição de ensino (IFSP);
    - Estabelecimentos de médio e grande porte que realizam o consumo de gás GLP.
 
 3. Análise SWOT (Equipe, Instituição)
-   - SWOT (Forças, Fraquezas, Oportunidades e Ameaças)
-   - SWOT instituição
+   - SWOT da Instituição (IFSP)
+      - Forças
+         - Biblioteca
+         - Acesso à ajuda do corpo docente
+         - Networking com outros alunos
+         - Acesso à dispositivos e ferramentas (corte à laser, impressoras 3D, etc)
+         - Acesso à softwares de engenharia (Ultimate Cura, Fusion 360, Matlab, etc)
+         - Acesso à materiais e ferramentas (MDF, componentes eletrônicos, ferramentas, etc)
+         - Acesso à equipamentos (Notebooks. osciloscópios, geradores de função, etc)
+         - Espaço produtivo para reunião dos integrantes do grupo
+      - Fraquezas
+         - Acesso à internet para pesquisas e desenvolvimento
+         - Falta do Pacote Office para softwares de documentação e cálculo 
+      - Oportunidades
+         - Networking com empresas e empreendedores
+      - Ameças
+         - Muitas vezes faz-se necessário estar na instituição para reunir o grupo
+         - O tempo dentro da instituição é pequeno no período noturno
+         - Apenas dois dias da semana são considerados certos de presença do grupo na instituição
    - SWOT Caio
-   - SWOT Jão
+      - Forças
+         - Boa comunicação oral e escrita
+         - Experiência e conhecimento em programação de diversos tipos (Python, C/C++, Javascript...)
+         - Conhecimento em versionamento de código
+         - Conhecimento em gerenciamento de atividades (Scrum)
+         - Experiência de trabalho em projetos científicos
+      - Fraquezas
+         - Pouca habilidade com desenhos mecânicos em CAD 2D/3D
+         - 
+      - Oportunidades
+         - Aprendizado na construção de artigos científicos e divulgação
+         - Networking com professores, alunos e empresas da área
+         - Aprimoramento das habilidades de documentação técnica 
+      - Ameaças
+         - Falta de tempo disponível devido ao trabalho e outras responsabilidades pessoais
+         - Divisão de responsabilidades com outros projetos acadêmicos (Drone Skybotz)
+   - SWOT João
+      - Forças
+         - Determinação
+         - Curiosidade
+         - Tempo Livre
+         - Criatividade
+         - Desenho/projeto
+      - Fraquezas
+         - Disciplina
+         - Memória para atividades planejadas
+         - Memória para conteúdos aprendidos que vêm a ser necessários 
+      - Oportunidades
+         - Prática em diversas áreas de conhecimento relacionadas ao curso
+         - Produto comerciável
+         - Criação de uma empresa
+         - Inovação no mercado
+         - Adquirir experiência em vendas
+         - Obter networking com personalidades influentes
+      - Ameaças
+         - Problemas com atenção
+         - Problemas com foco 
    - SWOT Matheus
       - Forças
          - Conhecimento em desenho técnico e modelagem CAD
