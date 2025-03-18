@@ -15,9 +15,9 @@
       - Custo de desenvolvimento elevado;
       - Não validação do protótipo.
    6. Objetos e metas:
-      - Contrução de uma balança com precisão na casa das milígramas
-      - Comunicação com um serevidor
-      - Monitoramento por aplicativo, em aparelos moveis
+      - Contrução de uma balança com precisão na casa das miligramas
+      - Comunicação com um servidor
+      - Monitoramento por aplicativo, em aparelos móveis
       - Fornecer maxima segurança, com base nas normas técnicas dos Bombeiros e nas legislações da ANP e INMETRO
 
 2. Identificação das Partes Interessadas
