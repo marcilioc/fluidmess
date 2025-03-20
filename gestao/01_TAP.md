@@ -7,7 +7,7 @@
 3. Objetos e metas
    - Contrução de uma balança com precisão na casa das miligramas
    - Comunicação com um servidor
-   - Monitoramento por aplicativo, em aparelos móveis
+   - Monitoramento por Coputador e aplicativo (em aparelos móveis)
    - Fornecer maxima segurança, com base nas normas técnicas dos Bombeiros e nas legislações da ANP e INMETRO
 
 [Gestão do projeto](gestao_do_projeto.md)
