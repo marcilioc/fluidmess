@@ -50,3 +50,5 @@
                - Gestão
                - Desenhos
                - pesquisa sobre normas e materiais envolvendo GLP 
+
+[Gestão do projeto](gestao_do_projeto.md)

@@ -76,3 +76,5 @@
       - Ameaças
          - Ausência de tempo devido a compromissos pessoais e trabalho
    5. SWOT Grupo
+
+   [Gestão do projeto](gestao_do_projeto.md)
