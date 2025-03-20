@@ -95,14 +95,59 @@
          - Aprimoramento dos conhecimentos relacionados a programação, eletrônica e documentação de projetos
       - Ameaças
          - Ausência de tempo devido a compromissos pessoais e trabalho
-
-## Planejamento
+5. 5W2H
+   1. o que ?
+      - Sistema de Monitoramento e Controle de Fluidos por Massa
+   2. Por Que ?
+      - O objetivo é desenvolver um sistema composto por uma base de medição, sensores, atuadores, uma central de controle e uma interface externa para garantir o monitoramento, controle e distribuição de diversos tipos de fluidos. Cada fluido possuirá um algoritmo próprio de calibração para garantia da eficiência do controle, além do monitoramento frequente e disposição dos dados para consultas e planejamento de consumo ao longo de qualquer período desejado. A parte de atuadores pode operar de acordo com a situação, seja essa de fornecimento ininterrupto, temporizado ou manual.
+   3. Onde ?
+      - Todo o projeto será desenvolvido nas instalações do IFSP Campus Salto, desde a projeção, prototipagem, testes e validações de sistema. Também ocorrerão pesquisas e desenvolvimentos fora do IFSP, reuniões online e presenciais.
+   4. Quem
+      - Caio Marcilio dos Santos, João Victor Gomes de Matos e Matheus Yuji Otaguro Neves compõe a equipe de desenvolvimento do projeto e contam com o auxílio dos professores do IFSP e possíveis fornecedores, consultoria de indústrias ou profissionais das áreas relacionadas ao projeto (enfermaria, química, restaurantes, etc)
+   5. Quando ?
+      - Espera-se que o protótipo seja desenvolvido ao longo do ano de 2024 com a fase inicial ocorrendo no primeiro trimestre, com o planejamento da execução, primeiras propostas de desenvolvimento e modelagem de componentes mecânicos e eletroeletrônicos. Para o segundo trimestre, ocorrerão os desenvolvimentos dos circuitos eletroeletrônicos, produção das peças mecânicas, compra de componentes, desenvolvimento de software de controle e testes iniciais de conceito. Para o segundo semestre do ano, iniciam-se os testes de integração de sistemas, validação de protótipo e todo o desenvolvimento do software de monitoramento (interface e bancos de dados). Mais ao fim do ano, no quarto trimestre, ocorrerão os testes finais de integração do sistema completo e validação.
+   6. Como ?
+      - A maior parte dos componentes mecânicos podem ser impressos em 3D ou cortados à laser no próprio IFSP, com ressalvas para algumas peças que podem ser compradas prontas como cases para eletrônica. A parte eletroeletrônica pode ser desenvolvida com protoboard no IFSP e depois comprada em PCB para validações mais precisas e eletrônica final. Toda a parte de software será desenvolvida com os computadores próprios ou do IFSP utilizando-se, principalmente de linguagens como Python, JavaScript, C/C++, SQL, etc
+   7. Quanto vai  custar
+      - Espera-se que o custo de desenvolvimento fique em torno de 600 reais ao longo do ano. Isso considerando a compra de componentes eletroeletrônicos, algumas partes mecânicas, produção das PCBs e materiais para impressão 3D e corte à laser
 
 1. Plano de Gerenciamento do Projeto
-2. Escopo
    1. Coletar requisitos
-   2. Definir o escopo
-   3. Criar a Estrutura Analítica do Projeto - EAP
+      - Componentes mecânicos
+         - MDF
+         - Célula de carga
+         - Válvulas solenoides
+      - Coponentes eletronicos
+         - Arduino
+         - Esp32
+         - MQTT
+         - Módulo Relé
+         - Regulador de tansão L8705C
+      - Conhecimento em C++
+      - Conhecimento em protocolo MQTT
+      - Conhecimeno em mecanica
+      - Conhecimanto em elétrica
+      - Conhecimento em elétronica
+   2. Criar a Estrutura Analítica do Projeto - EAP
+      - Hierárquia
+         - Capitão ==> Caio Marcilio
+         - Co-capitão ==> Otaguro Neves
+         - Gestor ==> João Victor
+      - Tarefas
+         - Grupo
+            - Testes
+            - construção eletro-eletronica
+            - contrução mecânica
+         - Marcilio
+            - Programação
+            - Protocolos
+         - Otaguro
+            - Pesquisa e compra de produtos
+            - Responsavel pelas documentações
+         - João Victor
+            - Gestão
+            - Desenhos
+            - pesquisa sobre normas e materiais envolvendo GLP 
 3. Cronograma
    1. Definir as Atividades
    2. Sequenciar as Atividades
