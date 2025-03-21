@@ -1,6 +1,6 @@
 1. itens pessoais dos membros do grupo
-    - Nootbook
-    - valvula solenóide, 1 unidade
+    - Notebook
+    - Valvula solenóide, 1 unidade
 2. Comercializados
 
     | Produto | Valor | Quantidade (UN) |
