@@ -37,18 +37,18 @@
         - Gestor ==> João Victor
     - Tarefas
         - Grupo
-           - Testes
+           - Testes do protótipo
            - construção eletro-eletronica
            - contrução mecânica
         - Marcilio
-               - Programação
-               - Protocolos
+            - Programação
+            - Protocolos
         - Otaguro
-               - Pesquisa e compra de produtos
-               - Responsavel pelas documentações
+            - Pesquisa e compra de produtos
+            - Responsavel pelas documentações
         - João Victor
-               - Gestão
-               - Desenhos
-               - pesquisa sobre normas e materiais envolvendo GLP 
+            - Gestão
+            - Desenhos
+            - pesquisa sobre normas e materiais envolvendo GLP 
 
 [Gestão do projeto](gestao_do_projeto.md)

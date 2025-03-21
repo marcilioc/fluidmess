@@ -2,7 +2,7 @@
     - Nootbook
     - valvula solenóide, 1 unidade
 2. Comercializados
-    ---
+
     | Produto | Valor | Quantidade (UN) |
     |:-------|:-----:|:----------:|
     |ESP32|R$:61,75| 1 |
