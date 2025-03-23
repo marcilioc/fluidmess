@@ -4,7 +4,7 @@
     2. Validação
     - Por questões de segurança e quantidade de recursos disponíveis, este projeto será validado utilizando fluidos não inflamáveis. No caso deste protótipo, a água. Utilizaremos dois galões de quantidades simbólicas para simular os botijões, com a água para gerar o fluxo necessário para variação de massa e garantir o monitoramento. Todo o resto do sistema será adaptado de acordo com as necessidades deste protótipo, por tanto não utilizaremos os sensores de gás.
 2. Requisitos
-    - Caracteristicas necesarias
+    - Características necessárias 
         - Medição de massa com precisão de miligramas
         - Comunicação MQTT via WiFi
         - Servidor local para infraestrutura (Banco de Dados, broker MQTT)
@@ -30,7 +30,7 @@
 3. Estrutura Analítica do Projeto - EAP
     - Hierarquia
         - Capitão ==> Caio Marcilio
-        - Co-capitão ==> Otaguro Neves
+        - Co-capitão ==> Matheus Yuji
         - Gestor ==> João Victor
     - Tarefas
         - Grupo
@@ -42,7 +42,7 @@
             - Protocolos de comunicação
         - Matheus Yuji
             - Pesquisa e compra de produtos
-            - Responsavel pelas documentações
+            - Responsável pelas documentações
         - João Victor
             - Gestão
             - Desenhos
