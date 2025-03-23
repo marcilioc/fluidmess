@@ -4,7 +4,7 @@
 
 1. [Termo de Abertura do Projeto - TAP](01_TAP.md)
    
-2. [Identificação das Partes Interessadas](02_Indentificação_partes_interesadas.md)
+2. [Identificação das Partes Interessadas](02_Identificação_partes_interesadas.md)
    
 ---
 

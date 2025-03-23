@@ -1,21 +1,21 @@
 - Instituição IFSP-Salto
 - Conhecimentos do corpo docente
-- NootBook
+- Notebook
 - Arduino
 - ESP32
 - Wifi
 - L8705C
-- Valvulas solenoide
+- Válvulas solenoide
 - Fusion 360
 - RDworks
 - UltimateCura
 - Corte a laser
-- Impresora 3d
-- células de carga, por flexão
+- Impressora 3d
+- Células de carga, por flexão
 - MDF
 - PLA
-- tubos
-- servidor
+- Tubos
+- Servidor (Pode ser um notebook)
 
 
 [Gestão do projeto](gestao_do_projeto.md)

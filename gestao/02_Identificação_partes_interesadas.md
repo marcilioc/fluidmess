@@ -1,4 +1,4 @@
-1. indentificação
+1. Identificação
    - O grupo (Caio, João e Matheus);
    - Professor orientador (José William);
    - Instituição de ensino (IFSP);
@@ -33,9 +33,10 @@
          - Conhecimento em versionamento de código
          - Conhecimento em gerenciamento de atividades (Scrum)
          - Experiência de trabalho em projetos científicos
+         - Habilidades com eletrônica
       - Fraquezas
          - Pouca habilidade com desenhos mecânicos em CAD 2D/3D
-         - 
+         - Centralização excessiva de responsabilidades
       - Oportunidades
          - Aprendizado na construção de artigos científicos e divulgação
          - Networking com professores, alunos e empresas da área
@@ -50,6 +51,7 @@
          - Tempo Livre
          - Criatividade
          - Desenho/projeto
+         - Boas habilidades manuais (Soldagem de eletrônicos, montagem mecânica)
       - Fraquezas
          - Disciplina
          - Memória para atividades planejadas
