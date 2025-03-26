@@ -78,5 +78,20 @@
       - Ameaças
          - Ausência de tempo devido a compromissos pessoais e trabalho
    5. SWOT Grupo
+      - Forças
+         - Comunicação
+         - Entrosamento dos Integrantes
+         - Trabalho em equipe
+         - Programação
+         - Eletronica
+         - Mecâmica
+         - Elétrica
+         - Desenho técnico
+         - Modelagem 3D
+         - Projeto
+         - Experiência com um amplo arsenal de ferramentas
+         - Experiência  em soldagem
+      
+
 
    [Gestão do projeto](gestao_do_projeto.md)
