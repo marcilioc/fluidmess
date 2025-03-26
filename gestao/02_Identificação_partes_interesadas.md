@@ -91,7 +91,7 @@
          - Projeto
          - Experiência com um amplo arsenal de ferramentas
          - Experiência  em soldagem
-      
+      - Fraquezas
 
 
    [Gestão do projeto](gestao_do_projeto.md)
