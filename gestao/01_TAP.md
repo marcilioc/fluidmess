@@ -10,6 +10,6 @@
    - Comunicação com um servidor via MQTT
    - Armazenamento de dados em bancos de dados
    - Monitoramento por uma interface desktop e aplicativo para dispositivos móveis
-   - Fornecer máxima segurança, com base nas normas técnicas dos Bombeiros e nas legislações da ANP e INMETRO
+   - Garantir a segurança, com base nas normas técnicas dos Bombeiros e nas legislações da ANP e INMETRO
 
 [Gestão do projeto](gestao_do_projeto.md)

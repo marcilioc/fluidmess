@@ -48,7 +48,6 @@
       - Forças
          - Determinação
          - Curiosidade
-         - Tempo Livre
          - Criatividade
          - Desenho/projeto
          - Boas habilidades manuais (Soldagem de eletrônicos, montagem mecânica)
@@ -80,7 +79,6 @@
    5. SWOT Grupo
       - Forças
          - Comunicação
-         - Entrosamento dos Integrantes
          - Trabalho em equipe
          - Programação
          - Eletronica
@@ -92,6 +90,14 @@
          - Experiência com um amplo arsenal de ferramentas
          - Experiência  em soldagem
       - Fraquezas
-
+         - Tempo Livre
+         - Oportunidades de reunião
+      - Oportuniades
+         - Experiencia com trabalho em equipe
+         - Aprimoramento da resilência perante mudanças e criticas
+         - Experiencia com apresentação e venda de nosso produto
+      - Ameaças
+         - Tempo limitado até a entrega do projeo
+         - Recursos Financeiros
 
    [Gestão do projeto](gestao_do_projeto.md)
