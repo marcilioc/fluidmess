@@ -1,4 +1,4 @@
-::: mermaid
+```mermaid
 graph TD;
     A(Fluidmess)
 
@@ -7,7 +7,7 @@ graph TD;
     B2(Atualizações)
 
     C(Interface)
-    
+
     D(Estrutura)
     D1(Nova estrutura)
     D2(Corte do molde)
@@ -44,5 +44,5 @@ graph TD;
     F--> F1
     F1--> F2
     F2 --> F3
-:::
+```
 
