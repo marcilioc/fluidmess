@@ -8,8 +8,8 @@ graph TD;
 
     C(Interface)
     
-    D(Extrutura)
-    D1(Nova extrutura)
+    D(Estrutura)
+    D1(Nova estrutura)
     D2(Corte do molde)
     D3(Melhoria projeto)
 
