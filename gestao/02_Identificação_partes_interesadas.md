@@ -81,8 +81,8 @@
          - Comunicação
          - Trabalho em equipe
          - Programação
-         - Eletronica
-         - Mecâmica
+         - Eletrônica
+         - Mecânica
          - Elétrica
          - Desenho técnico
          - Modelagem 3D
@@ -90,14 +90,15 @@
          - Experiência com um amplo arsenal de ferramentas
          - Experiência  em soldagem
       - Fraquezas
-         - Tempo Livre
+         - Tempo para trabalhar no projeto
+         - Tempo para testes em equipe
          - Oportunidades de reunião
-      - Oportuniades
-         - Experiencia com trabalho em equipe
+      - Oportunidades
+         - Experiência com trabalho em equipe
          - Aprimoramento da resilência perante mudanças e criticas
-         - Experiencia com apresentação e venda de nosso produto
+         - Experiência com apresentação e venda de nosso produto
       - Ameaças
-         - Tempo limitado até a entrega do projeo
-         - Recursos Financeiros
+         - Prazo limitado até a entrega do projeto
+         - Recursos financeiros
 
    [Gestão do projeto](gestao_do_projeto.md)
