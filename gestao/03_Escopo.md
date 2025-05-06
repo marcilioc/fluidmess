@@ -31,7 +31,7 @@
 3. Estrutura Analítica do Projeto - EAP
     - Hierarquia
         - Programador ==> Caio Marcilio
-        - Progetista ==> Matheus Yuji
+        - Projetista ==> Matheus Yuji
         - Gestor ==> João Victor
     - Tarefas
         - Grupo
