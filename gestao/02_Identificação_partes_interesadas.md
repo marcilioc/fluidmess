@@ -88,14 +88,14 @@
          - Modelagem 3D
          - Projeto
          - Experiência com um amplo arsenal de ferramentas
-         - Experiência  em soldagem
+         - Experiência em soldagem
       - Fraquezas
          - Tempo para trabalhar no projeto
          - Tempo para testes em equipe
          - Oportunidades de reunião
       - Oportunidades
          - Experiência com trabalho em equipe
-         - Aprimoramento da resilência perante mudanças e criticas
+         - Aprimoramento da resiliência perante mudanças e críticas
          - Experiência com apresentação e venda de nosso produto
       - Ameaças
          - Prazo limitado até a entrega do projeto
