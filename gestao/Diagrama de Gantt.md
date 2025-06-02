@@ -1,7 +1,8 @@
 
 
 ``` mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'taskBkgColor': '#4CAF50', 'taskBorderColor': '#388E3C', 'sectionBkgColor': '#FFEB3B', 'altSectionBkgColor': '#FFC107'}}}%%
+%%{init: {'themeCSS': 'rect[done] {fill: #4CAF50;} rect[active] {fill: #FFC107;}'}}%%
+
 gantt
     title Cronograma
     dateFormat  YYYY-MM-DD
