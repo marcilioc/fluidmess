@@ -12,12 +12,11 @@ gantt
     Montagem balança_1          :done, 2025-06-01, 10d
     Montagem balança_2          :active, 2025-06-01, 10d
     section Testes
-    Teste com 1 balança          :, 2025-06-12, 7d
-    Teste com 2 balanças         :, 2025-07-01, 7d
-    Banco de dados               :, 2025-07-01, 14d
-    interface                    :, 2025-07-01, 14d
-    APP                          :, 2025-07-15, 15d
+    Teste com 1 balança          :, 2025-06-11, 7d
+    Teste com 2 balanças         :, 2025-06-15, 7d
+    Banco de dados               :, 2025-06-11, 14d
+    interface                    :, 2025-06-11, 14d
 
     section Documentação
-    Artigo de TCC                     :2025-07-01, 30d
+    Artigo de TCC                     :2025-06-19, 30d
 ```
