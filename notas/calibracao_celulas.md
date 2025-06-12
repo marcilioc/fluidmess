@@ -1,3 +1,5 @@
+[[TOC]]
+
 # Métodos de Calibração de Leituras de Células de Carga
 
 Alguns métodos para calibrar os principais desvios de medidas que podem ser observados ao utilizar células de carga e ADCs para realizar a medição de peso.
