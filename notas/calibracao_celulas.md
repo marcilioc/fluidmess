@@ -1,6 +1,8 @@
 # Métodos de Calibração de Leituras de Células de Carga
 
-Alguns métodos para calibrar os principais desvios de medidas que podem ser observados ao utilizar células de carga e ADCs para realizar a medição de peso.
+A medição precisa e confiável de peso é um requisito fundamental em inúmeras aplicações, e em sistemas baseados em células de carga, a manutenção dessa precisão é um desafio contínuo. Apesar de sua alta sensibilidade e repetibilidade, as células de carga são dispositivos que apresentam comportamentos não-ideais inerentes, como a histerese e a forte influência da temperatura. A histerese se manifesta como uma diferença na leitura para a mesma carga, dependendo se essa carga foi atingida por um aumento ou diminuição do peso, enquanto as variações de temperatura podem causar desvios tanto no ponto zero quanto na sensibilidade da balança. Esses fatores, se não forem devidamente caracterizados e compensados, levam a uma variação gradual das medições, comprometendo a exatidão do sistema ao longo do tempo. Assim, a calibração torna-se um processo indispensável para mitigar esses efeitos, garantindo que a saída do sensor reflita o peso real com a maior fidelidade possível.
+
+Para o sistema de medição de fluidos desenvolvido, que exige operações contínuas e resultados confiáveis, a implementação de métodos de autocalibração periódica é de extrema relevância. Isso permite que a balança se ajuste autonomamente a pequenas variações e desvios, sem a necessidade de interrupções frequentes para calibrações manuais. Nossa abordagem concentra-se em compensar a histerese através da detecção da direção da carga aplicada e em realizar ajustes periódicos para o ponto de zero e para um ponto de referência conhecido. Essa estratégia assegura que a balança mantenha sua acurácia e estabilidade ao longo do tempo, fundamental para a integridade e a confiabilidade das medições no ambiente de operação. No ambiente de testes utilizado atualmente, a caracterização da influência da temperatura não é viável.
 
 ## Caracterizando a Histerese
 A histerese é a diferença máxima na saída de uma célula de carga para a mesma carga aplicada, quando essa carga é alcançada primeiro por um aumento a partir de zero e depois por uma diminuição a partir da carga nominal máxima. Basicamente, ela mede o quanto a leitura da célula de carga "atrasa" ou se desvia entre o carregamento e o descarregamento no mesmo ponto de força.
@@ -58,3 +60,8 @@ Para caracterizar a influência da temperatura:
 - **Controle Ambiental**: Mantenha outras variáveis ambientais (como umidade e vibração) o mais constante possível durante os testes para isolar os efeitos da histerese e da temperatura.
 - **Tempo de Estabilização**: Paciência é fundamental. Garanta que a célula de carga esteja completamente estabilizada térmica e mecanicamente antes de registrar qualquer leitura.
 - **Equipamento de Aquisição**: Utilize um sistema de aquisição de dados (DAQ) de alta resolução e precisão para garantir que as leituras da célula de carga sejam confiáveis.
+
+---
+
+### Referências
+[Notas Referências](../notas/calibracao_celulas.md)
