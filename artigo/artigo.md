@@ -4,7 +4,7 @@ Caio Marcilio dos Santos / caio.marcilio@aluno.ifsp.edu.br / IFSP-Salto
 
 João Victor Gomes de Matos / email@autor2 / IFSP-Salto
 
-Matheus Yuji Otaguro Neves / email@autor3 / IFSP-Salto
+Matheus Yuji Otaguro Neves / matheus.yuji@aluno.ifsp.edu.br / IFSP-Salto
 
 José William Rodrigues Pereira / jose.pereira@ifsp.edu.br / IFSP-Salto
 
