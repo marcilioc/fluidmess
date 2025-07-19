@@ -64,4 +64,4 @@ Para caracterizar a influência da temperatura:
 ---
 
 ### Referências
-[Notas Referências](../notas/calibracao_celulas.md)
+[Notas Referências](../trabalho_academico/notas_referencias.md)
